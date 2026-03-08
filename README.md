@@ -18,5 +18,4 @@ as I work toward an IT career.
 ## Goals
 - Land my first IT role
 - Get comfortable with version control in a team setting
-- Build a strong GitHub portfolio
-- This is person 2 editing the same file 
+- Build a strong Github portfolio-olio
